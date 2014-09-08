@@ -1,4 +1,4 @@
-react-clock-example
+react-example
 ===================
 
-a clock example with react
+examples with react
