@@ -1,0 +1,8 @@
+{
+  "name": "react-example",
+  "description": "react server",
+  "version": "0.1.0",
+  "dependencies": {
+    "node-static": "^0.7.3"
+  }
+}
